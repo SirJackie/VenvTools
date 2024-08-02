@@ -2,6 +2,8 @@
 
 An Python Virtual Environment Migration Toolset.
 
+**<u>注意：运行本程序，请务必使用管理员权限！MAKE SURE YOU RUN THIS WITH ADMIN PRIVILEDGE!</u>**
+
 ## 解决了什么痛点？
 
 - Python创建的Venv虚拟环境，是不能通过“剪切粘贴”移动到其他位置的，一旦路径改变，就会出错无法使用
